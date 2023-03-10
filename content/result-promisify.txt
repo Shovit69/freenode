@@ -1,0 +1,5 @@
+combined:Hello this is the first text file
+__this is the second text filecombined:Hello this is the first text file
+__this is the second text filecombined:Hello this is the first text file
+__this is the second text filecombined:Hello this is the first text file
+__this is the second text file
